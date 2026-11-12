@@ -5,5 +5,10 @@
     "gui.tpwithgui.teleport_to_me": "Teleport %s to me",
     "gui.tpwithgui.close": "Close",
     "gui.tpwithgui.cancel": "Cancel",
+    "gui.tpwithgui.teleport_menu": "Teleport Menu",
+    "gui.tpwithgui.teleport_to_selected": "Teleport to Selected Player",
+    "gui.tpwithgui.teleport_selected_to_me": "Teleport Selected Player to Me",
+    "gui.tpwithgui.selected_player": "Selected: %s",
+    "gui.tpwithgui.no_player_selected": "No player selected",
     "key.tpwithgui.open_gui": "TP With GUI: Open Teleport GUI"
 }

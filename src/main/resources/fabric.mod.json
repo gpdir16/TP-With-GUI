@@ -2,29 +2,22 @@
     "schemaVersion": 1,
     "id": "tpwithgui",
     "version": "${version}",
-
     "name": "TP With GUI",
     "description": "Easy TP with GUI without /tp command.",
     "authors": ["gpdir16"],
     "contact": {},
-
     "license": "MIT",
     "icon": "assets/tpwithgui/icon.png",
-
     "environment": "client",
-
     "entrypoints": {
         "client": ["com.tpwithgui.TpWithGui"]
     },
-
     "mixins": [],
-
     "depends": {
-        "fabricloader": ">=0.17.2",
-        "minecraft": "~1.21.9",
-        "java": ">=21",
+        "fabricloader": ">=0.20.1",
+        "minecraft": "~26.3",
+        "java": ">=25",
         "fabric-api": "*"
     },
-
     "suggests": {}
 }

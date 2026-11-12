@@ -5,5 +5,10 @@
     "gui.tpwithgui.teleport_to_me": "%s을(를) 내게 텔레포트",
     "gui.tpwithgui.close": "닫기",
     "gui.tpwithgui.cancel": "취소",
+    "gui.tpwithgui.teleport_menu": "텔레포트 메뉴",
+    "gui.tpwithgui.teleport_to_selected": "선택된 플레이어에게 텔레포트",
+    "gui.tpwithgui.teleport_selected_to_me": "선택된 플레이어를 내게 텔레포트",
+    "gui.tpwithgui.selected_player": "선택됨: %s",
+    "gui.tpwithgui.no_player_selected": "선택된 플레이어 없음",
     "key.tpwithgui.open_gui": "TP With GUI: 텔레포트 GUI 열기"
 }
